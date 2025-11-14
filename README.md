@@ -3,7 +3,7 @@
 This is a complete API test automation project for the Trello API, built using Postman. The project demonstrates a full CRUD workflow (Create, Read, Update, Delete) for core Trello features.
 
 ## Project Features 
-**Full CRUD Lifecycle:** Tests cover the creation, retrieval, updating, and deletion of Boards, Lists, and Cards.  **Dynamic Data:** Uses **Pre-request Scripts** (JavaScript) to generate unique data (like board names) for each run, ensuring tests are repeatable.  **Environments:** Utilizes Postman Environments to manage variables like base_url, key, and token securely and efficiently.  **Test Suite:** Includes a suite of **60 automated tests** (assertions) that validate response codes, body content, and data integrity.
+**Full CRUD Lifecycle:** Tests cover the creation, reading, updating, and deletion of Boards, Lists, and Cards.  **Dynamic Data:** Uses **Pre-request Scripts** (JavaScript) to generate unique data (like board names) for each run, ensuring tests are repeatable.  **Environments:** Utilizes Postman Environments to manage variables like base_url, key, and token securely and efficiently.  **Test Suite:** Includes a suite of **60 automated tests** (assertions) that validate response codes, body content, and data integrity.
 
 ## How to Use 
 1. Download both the **Collection** file and the **Environment** file from this repository.
